@@ -19,7 +19,7 @@ Front-end developer
 ## Currently I'm learning:
 
 <br><img alt="Redux" title="Redux" src="https://cdn.iconscout.com/icon/free/png-64/redux-283024.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Jest" src="https://seekicon.com/free-icon-download/jest-icon_1.svg" width="24" height="24"/> 
+<img alt="Jest" title="Jest" src="https://seekicon.com/free-icon-download/jest-icon_1.svg" width="24" height="24"/> 
 
 
 
